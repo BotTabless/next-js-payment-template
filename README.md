@@ -3,3 +3,4 @@
 -page template use to implement payment gateway (sandbox).
 -education purpose only.
 # template_payment_method
+# template_payment_method
