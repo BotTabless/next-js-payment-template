@@ -7,3 +7,4 @@
 # template_payment_method
 # template_payment_method
 # template_payment_method
+# payment_gateway_template
